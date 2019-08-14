@@ -1,7 +1,4 @@
 hello grape
 nimen jiuhsi zheyang de ma
 hello grape
-<<<<<<< HEAD
-=======
 hello dev
->>>>>>> master
